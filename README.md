@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
