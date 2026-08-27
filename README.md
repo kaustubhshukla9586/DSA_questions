@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0050-powx-n) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
