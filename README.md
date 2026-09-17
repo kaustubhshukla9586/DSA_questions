@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0189-rotate-array) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2102-find-the-middle-index-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
