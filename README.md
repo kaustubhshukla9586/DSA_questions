@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
