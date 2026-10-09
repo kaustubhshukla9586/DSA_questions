@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
