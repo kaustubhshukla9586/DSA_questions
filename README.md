@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0724-find-pivot-index) |
+| [2058-concatenation-of-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
