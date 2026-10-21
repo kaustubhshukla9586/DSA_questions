@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
