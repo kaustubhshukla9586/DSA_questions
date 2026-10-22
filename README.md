@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0724-find-pivot-index) |
 | [2058-concatenation-of-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2102-find-the-middle-index-in-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
