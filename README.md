@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
