@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/2102-find-the-middle-index-in-array) |
@@ -135,7 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0169-majority-element) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
