@@ -133,7 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaustubhshukla9586/DSA_questions/tree/master/0169-majority-element) |
